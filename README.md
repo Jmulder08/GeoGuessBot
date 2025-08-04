@@ -26,10 +26,12 @@
 
 ## Screenshots
 
-![Start of a round](./screenshots/start.png)  
-*A sample randomly selected location*
+![Starting a room](./screenshot_rooms_start)  
+*Start a game room for other players to join*
 
-![In-game UI](./screenshots/game-ui.png)  
+![In-game UI](./screenshot_game_view)
+![In-game UI](./screenshot_game_overview)
+
 *Game state with players, flags, and remaining lives*
 
 ---
